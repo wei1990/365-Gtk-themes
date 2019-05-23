@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=365os-orange
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=365os-orange
+MetacityTheme=365os-orange
+IconTheme=365os
+CursorTheme=365os
+ButtonLayout=menu:minimize,maximize,close

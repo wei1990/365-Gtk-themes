@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=365os-pink
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=365os-pink
+MetacityTheme=365os-pink
+IconTheme=365os
+CursorTheme=365os
+ButtonLayout=menu:minimize,maximize,close
